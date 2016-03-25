@@ -1,6 +1,7 @@
 total_case = input()
 case_index = 0
 
+# 무식하게 세기
 
 def match(hyper_senior, fans):
 	for idx in xrange(len(hyper_senior)):
